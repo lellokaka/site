@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    width: 100% ;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-style: italic ;
+}
+header{
+    background-color: cyan;
+    height: 50px;
+    width: 1915px;
+    text-align: center;
+    font-size:  15px;
+    font-style: italic;
+    color: ghostwhite;
+}
+header img{
+    height:400px;
+    width: 1915px;
+}
+body{
+    background-color: darkgray;
+  height: 100px;
+  width: 1915px;
+}
+
