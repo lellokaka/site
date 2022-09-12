@@ -13,20 +13,25 @@ footer{
 }
 header{
     background-color: cyan;
-    height: 50px;
-    width: 1915px;
+    height: 100%;
+    width: 100%;
     text-align: center;
     font-size:  15px;
     font-style: italic;
     color: ghostwhite;
+    display: flex;
+    justify-content: center;
+    
 }
-header img{
+div img{
     height:400px;
-    width: 1915px;
+    width:100%;
 }
 body{
     background-color: darkgray;
   height: 100px;
   width: 1915px;
 }
+
+
 
